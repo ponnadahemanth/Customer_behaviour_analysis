@@ -6,7 +6,7 @@ This project highlights the full lifecycle of a real analytics workflow—from r
 ==> Overview
 
 This project analyzes customer shopping behavior using 3,900+ purchase records.
-The goal is to identify key revenue drivers, customer segments, product performance, and actionable insights to support business decisions.
+The goal is to identify key revenue drivers, customer segments, product performance, and actionable insights to support business decisions
 
 The workflow includes:
 
